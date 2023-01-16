@@ -33,13 +33,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src=".\READEME\image\OpenCV.svg" width="200" height="48" alt="Matplotlib" style="background-color:white;"/>
+        <img src=".\READEME\image\OpenCV.svg" width="200" height="48" alt="OpenCV" style="background-color:white;"/>
       </a>
       <br>OpenCV
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src=".\READEME\image\Tesseract_OCR.png" width="200" height="48" alt="Matplotlib" style="background-color:white;"/>
+        <img src=".\READEME\image\Tesseract_OCR.png" width="200" height="48" alt="Tesseract" style="background-color:white;"/>
       </a>
       <br>Tesseract
     </td>
