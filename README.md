@@ -289,8 +289,3 @@
 | <img src=".\READEME\image\opencv.png" height="48" alt="OpenCV" style="background-color:white;"/>                                               | [OpenCV](https://opencv.org/)| `api_key` | `string` |
 | <img src=".\READEME\image\네이버_클로바.png" height="48" alt="Clova" style="background-color:white;"/>                                               | [Clova](https://clova.ai/ko)| `api_key` | `string` |
 -------
-
-## Feedback
-
-피드백이 있다면 alion0513@naver.com 으로 메일을 보내주세요.
-
