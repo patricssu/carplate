@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src=".\READEME\image\Tesseract_OCR.svg" width="200" height="48" alt="Tesseract" style="background-color:white;"/>
+        <img src=".\READEME\image\Tesseract.svg" width="200" height="48" alt="Tesseract" style="background-color:white;"/>
       </a>
       <br>Tesseract
     </td>
